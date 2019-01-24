@@ -20,6 +20,8 @@ will be added in the future.
 
 If you would like to extend or compare with our algorithms, or use our source code, please consider citing the above two papers.
 
+Any questions feel free to contact Mengting Wan (m5wan@ucsd.edu).
+
 ## Quick Start
 
 Requirement:
