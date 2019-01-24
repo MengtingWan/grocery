@@ -33,7 +33,7 @@ Requirement:
 
  - **Preprocess the dataset**
  
- > python ./src/parser.py --data\_name instacart --thr\_item 10 --thr\_user --subset\_user 0.1
+ > python ./src/parser.py --data\_name instacart --thr\_item 10 --thr\_user 0 --subset\_user 0.1
  
  This will randomly sample transactions associated with 10% users and filter out products with <10 transactions. Please consider adjusting these thresholds if you plan to run the algorithms on the complete dataset.
  
